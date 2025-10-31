@@ -17,4 +17,5 @@ Always looking to improve my skills and stay up to date with the best practices 
 </p>
 
 ![Michael Guauque's Github stats](https://github-readme-stats.vercel.app/api?username=MichaelGuauque&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelGuauque&layout=compact&theme=dark)
